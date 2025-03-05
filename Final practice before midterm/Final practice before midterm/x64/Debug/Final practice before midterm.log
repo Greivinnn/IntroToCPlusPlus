@@ -1,0 +1,7 @@
+﻿  Character.cpp
+  Inventory.cpp
+  Weapon.cpp
+C:\Users\greiv\OneDrive - College LaSalle\Introduction to C++\Final practice before midterm\Final practice before midterm\Weapon.cpp(25,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+  Generating Code...
+  Final practice before midterm.vcxproj -> C:\Users\greiv\OneDrive - College LaSalle\Introduction to C++\Final practice before midterm\x64\Debug\Final practice before midterm.exe

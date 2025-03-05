@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6AC93B-86B6-4396-99DB-614E5B3CEBFB}|VectorPractice\\VectorPractice.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\VectorPractice\\VectorPractice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6AC93B-86B6-4396-99DB-614E5B3CEBFB}|VectorPractice\\VectorPractice.vcxproj|solutionrelative:VectorPractice\\VectorPractice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F73F4C-A323-44FB-B65E-2628F6825F7A}|Practice\\Practice.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\Practice\\Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2F73F4C-A323-44FB-B65E-2628F6825F7A}|Practice\\Practice.vcxproj|solutionrelative:Practice\\Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932A2F9-303A-4291-A5FC-78EBADEB6CA8}|C\u002B\u002B arrays\\C\u002B\u002B arrays.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\C\u002B\u002B arrays\\C\u002B\u002B arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8932A2F9-303A-4291-A5FC-78EBADEB6CA8}|C\u002B\u002B arrays\\C\u002B\u002B arrays.vcxproj|solutionrelative:C\u002B\u002B arrays\\C\u002B\u002B arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E21A48-F536-4E4D-9BF7-354A99A29CF0}|Vectors Notes\\Vectors Notes.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\Vectors Notes\\Vectors Notes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23E21A48-F536-4E4D-9BF7-354A99A29CF0}|Vectors Notes\\Vectors Notes.vcxproj|solutionrelative:Vectors Notes\\Vectors Notes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED55529-28CC-4B30-B913-507845255B69}|Week 1b\\Week 1b.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\Week 1b\\Week 1b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9ED55529-28CC-4B30-B913-507845255B69}|Week 1b\\Week 1b.vcxproj|solutionrelative:Week 1b\\Week 1b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VectorPractice.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\VectorPractice\\VectorPractice.cpp",
+              "RelativeDocumentMoniker": "VectorPractice\\VectorPractice.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\VectorPractice\\VectorPractice.cpp",
+              "RelativeToolTip": "VectorPractice\\VectorPractice.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:04:44.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vectors Notes.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\Vectors Notes\\Vectors Notes.cpp",
+              "RelativeDocumentMoniker": "Vectors Notes\\Vectors Notes.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\Vectors Notes\\Vectors Notes.cpp",
+              "RelativeToolTip": "Vectors Notes\\Vectors Notes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T23:52:16.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "C\u002B\u002B arrays.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\C\u002B\u002B arrays\\C\u002B\u002B arrays.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B arrays\\C\u002B\u002B arrays.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\C\u002B\u002B arrays\\C\u002B\u002B arrays.cpp",
+              "RelativeToolTip": "C\u002B\u002B arrays\\C\u002B\u002B arrays.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T23:35:31.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practice.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\Practice\\Practice.cpp",
+              "RelativeDocumentMoniker": "Practice\\Practice.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\Practice\\Practice.cpp",
+              "RelativeToolTip": "Practice\\Practice.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T00:45:49.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Week 1b.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\Week 1b\\Week 1b.cpp",
+              "RelativeDocumentMoniker": "Week 1b\\Week 1b.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1b\\Week 1b\\Week 1b.cpp",
+              "RelativeToolTip": "Week 1b\\Week 1b.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T21:59:59.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

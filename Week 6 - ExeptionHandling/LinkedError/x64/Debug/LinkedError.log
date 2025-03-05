@@ -1,0 +1,3 @@
+﻿  LinkedError.cpp
+C:\Users\greiv\OneDrive - College LaSalle\Introduction to C++\Week 6 - ExeptionHandling\LinkedError\LinkedError.cpp(12,17): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  LinkedError.vcxproj -> C:\Users\greiv\OneDrive - College LaSalle\Introduction to C++\Week 6 - ExeptionHandling\x64\Debug\LinkedError.exe

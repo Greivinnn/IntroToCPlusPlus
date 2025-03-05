@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 2A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94D9C2E9-AAEE-46F9-9EEB-DDEB99248F87}|Question 3\\Question 3.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 2A\\Question 3\\Question 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94D9C2E9-AAEE-46F9-9EEB-DDEB99248F87}|Question 3\\Question 3.vcxproj|solutionrelative:Question 3\\Question 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF13B34A-1181-4BA4-89D4-B95295A36093}|Week 2A\\Week 2A.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 2A\\Week 2A\\Question 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF13B34A-1181-4BA4-89D4-B95295A36093}|Week 2A\\Week 2A.vcxproj|solutionrelative:Week 2A\\Question 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B25D4CF-7C9F-4CD0-BF7B-6BF40A567C00}|Question 2\\Question 2.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 2A\\Question 2\\Question 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B25D4CF-7C9F-4CD0-BF7B-6BF40A567C00}|Question 2\\Question 2.vcxproj|solutionrelative:Question 2\\Question 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question 1.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 2A\\Week 2A\\Question 1.cpp",
+              "RelativeDocumentMoniker": "Week 2A\\Question 1.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 2A\\Week 2A\\Question 1.cpp",
+              "RelativeToolTip": "Week 2A\\Question 1.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T05:42:04.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question 2.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 2A\\Question 2\\Question 2.cpp",
+              "RelativeDocumentMoniker": "Question 2\\Question 2.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 2A\\Question 2\\Question 2.cpp",
+              "RelativeToolTip": "Question 2\\Question 2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T04:04:17.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question 3.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 2A\\Question 3\\Question 3.cpp",
+              "RelativeDocumentMoniker": "Question 3\\Question 3.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 2A\\Question 3\\Question 3.cpp",
+              "RelativeToolTip": "Question 3\\Question 3.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T03:38:16.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

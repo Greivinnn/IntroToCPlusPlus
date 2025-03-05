@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69E0B1FE-52B1-49AF-B716-C55832E9BF14}|Final practice before midterm\\Final practice before midterm.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69E0B1FE-52B1-49AF-B716-C55832E9BF14}|Final practice before midterm\\Final practice before midterm.vcxproj|solutionrelative:Final practice before midterm\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E0B1FE-52B1-49AF-B716-C55832E9BF14}|Final practice before midterm\\Final practice before midterm.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69E0B1FE-52B1-49AF-B716-C55832E9BF14}|Final practice before midterm\\Final practice before midterm.vcxproj|solutionrelative:Final practice before midterm\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E0B1FE-52B1-49AF-B716-C55832E9BF14}|Final practice before midterm\\Final practice before midterm.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69E0B1FE-52B1-49AF-B716-C55832E9BF14}|Final practice before midterm\\Final practice before midterm.vcxproj|solutionrelative:Final practice before midterm\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E0B1FE-52B1-49AF-B716-C55832E9BF14}|Final practice before midterm\\Final practice before midterm.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69E0B1FE-52B1-49AF-B716-C55832E9BF14}|Final practice before midterm\\Final practice before midterm.vcxproj|solutionrelative:Final practice before midterm\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E0B1FE-52B1-49AF-B716-C55832E9BF14}|Final practice before midterm\\Final practice before midterm.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69E0B1FE-52B1-49AF-B716-C55832E9BF14}|Final practice before midterm\\Final practice before midterm.vcxproj|solutionrelative:Final practice before midterm\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E0B1FE-52B1-49AF-B716-C55832E9BF14}|Final practice before midterm\\Final practice before midterm.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69E0B1FE-52B1-49AF-B716-C55832E9BF14}|Final practice before midterm\\Final practice before midterm.vcxproj|solutionrelative:Final practice before midterm\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E0B1FE-52B1-49AF-B716-C55832E9BF14}|Final practice before midterm\\Final practice before midterm.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69E0B1FE-52B1-49AF-B716-C55832E9BF14}|Final practice before midterm\\Final practice before midterm.vcxproj|solutionrelative:Final practice before midterm\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventory.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Inventory.cpp",
+              "RelativeDocumentMoniker": "Final practice before midterm\\Inventory.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Inventory.cpp",
+              "RelativeToolTip": "Final practice before midterm\\Inventory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T03:09:49.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventory.h",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Inventory.h",
+              "RelativeDocumentMoniker": "Final practice before midterm\\Inventory.h",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Inventory.h",
+              "RelativeToolTip": "Final practice before midterm\\Inventory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-06T03:07:46.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Weapon.cpp",
+              "RelativeDocumentMoniker": "Final practice before midterm\\Weapon.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Weapon.cpp",
+              "RelativeToolTip": "Final practice before midterm\\Weapon.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T03:01:53.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Character.cpp",
+              "RelativeDocumentMoniker": "Final practice before midterm\\Character.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Character.cpp",
+              "RelativeToolTip": "Final practice before midterm\\Character.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T03:01:43.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weapon.h",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Weapon.h",
+              "RelativeDocumentMoniker": "Final practice before midterm\\Weapon.h",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Weapon.h",
+              "RelativeToolTip": "Final practice before midterm\\Weapon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-06T02:55:18.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Character.h",
+              "RelativeDocumentMoniker": "Final practice before midterm\\Character.h",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\Character.h",
+              "RelativeToolTip": "Final practice before midterm\\Character.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-06T02:53:37.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\main.cpp",
+              "RelativeDocumentMoniker": "Final practice before midterm\\main.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Final practice before midterm\\Final practice before midterm\\main.cpp",
+              "RelativeToolTip": "Final practice before midterm\\main.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T02:48:15.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

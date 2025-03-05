@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B14FF9D-6EC4-477D-8FBF-1A891DE2E442}|Week 4A - FriendNotes\\Week 4A - FriendNotes.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B14FF9D-6EC4-477D-8FBF-1A891DE2E442}|Week 4A - FriendNotes\\Week 4A - FriendNotes.vcxproj|solutionrelative:Week 4A - FriendNotes\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B14FF9D-6EC4-477D-8FBF-1A891DE2E442}|Week 4A - FriendNotes\\Week 4A - FriendNotes.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B14FF9D-6EC4-477D-8FBF-1A891DE2E442}|Week 4A - FriendNotes\\Week 4A - FriendNotes.vcxproj|solutionrelative:Week 4A - FriendNotes\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B14FF9D-6EC4-477D-8FBF-1A891DE2E442}|Week 4A - FriendNotes\\Week 4A - FriendNotes.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B14FF9D-6EC4-477D-8FBF-1A891DE2E442}|Week 4A - FriendNotes\\Week 4A - FriendNotes.vcxproj|solutionrelative:Week 4A - FriendNotes\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B14FF9D-6EC4-477D-8FBF-1A891DE2E442}|Week 4A - FriendNotes\\Week 4A - FriendNotes.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Week 4A - FriendNotes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B14FF9D-6EC4-477D-8FBF-1A891DE2E442}|Week 4A - FriendNotes\\Week 4A - FriendNotes.vcxproj|solutionrelative:Week 4A - FriendNotes\\Week 4A - FriendNotes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B14FF9D-6EC4-477D-8FBF-1A891DE2E442}|Week 4A - FriendNotes\\Week 4A - FriendNotes.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B14FF9D-6EC4-477D-8FBF-1A891DE2E442}|Week 4A - FriendNotes\\Week 4A - FriendNotes.vcxproj|solutionrelative:Week 4A - FriendNotes\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B14FF9D-6EC4-477D-8FBF-1A891DE2E442}|Week 4A - FriendNotes\\Week 4A - FriendNotes.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B14FF9D-6EC4-477D-8FBF-1A891DE2E442}|Week 4A - FriendNotes\\Week 4A - FriendNotes.vcxproj|solutionrelative:Week 4A - FriendNotes\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Game.cpp",
+              "RelativeDocumentMoniker": "Week 4A - FriendNotes\\Game.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Game.cpp",
+              "RelativeToolTip": "Week 4A - FriendNotes\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T02:42:07.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Game.h",
+              "RelativeDocumentMoniker": "Week 4A - FriendNotes\\Game.h",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Game.h",
+              "RelativeToolTip": "Week 4A - FriendNotes\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-30T02:40:45.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Player.cpp",
+              "RelativeDocumentMoniker": "Week 4A - FriendNotes\\Player.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Player.cpp",
+              "RelativeToolTip": "Week 4A - FriendNotes\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T02:36:42.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Player.h",
+              "RelativeDocumentMoniker": "Week 4A - FriendNotes\\Player.h",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Player.h",
+              "RelativeToolTip": "Week 4A - FriendNotes\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-30T02:34:56.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Main.cpp",
+              "RelativeDocumentMoniker": "Week 4A - FriendNotes\\Main.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Main.cpp",
+              "RelativeToolTip": "Week 4A - FriendNotes\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T02:38:54.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Week 4A - FriendNotes.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Week 4A - FriendNotes.cpp",
+              "RelativeDocumentMoniker": "Week 4A - FriendNotes\\Week 4A - FriendNotes.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 4A - FriendNotes\\Week 4A - FriendNotes\\Week 4A - FriendNotes.cpp",
+              "RelativeToolTip": "Week 4A - FriendNotes\\Week 4A - FriendNotes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T02:34:37.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

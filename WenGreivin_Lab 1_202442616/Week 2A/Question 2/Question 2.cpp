@@ -1,0 +1,42 @@
+#include <iostream>
+#include <array>
+
+struct Person
+{
+    std::string name;
+    int age;
+    std::string address;
+};
+
+void printEverything(std::array<Person, 3> persons)
+{
+    std::cout << "Array Elements:" << "\n\n";
+    for (int i = 0; i < 3; i++)
+    {
+        std::cout << "Name: " << persons[i].name << "\n" << "Age: " << persons[i].age << "\n" << "Address: " << persons[i].address;
+        std::cout << "\n-------------------------------------------------------------------------------------------------------\n";
+    }
+}
+
+int main()
+{
+    Person personOne;
+    Person personTwo;
+    Person personThree;
+
+    personOne.age = 40;
+    personTwo.age = 66;
+    personThree.age = 18;
+
+    personOne.name = "Carlos";
+    personTwo.name = "Juan";
+    personThree.name = "Santi";
+
+    personOne.address = "Miami";
+    personTwo.address = "Vancouver";
+    personThree.address = "Cancun";
+
+    std::array<Person, 3> persons = { personOne, personTwo, personThree };
+
+    printEverything(persons);
+}

@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Weapon.cpp
+C:\Users\LCV2442616\OneDrive - College LaSalle\Introduction to C++\Practice exercises - Structs & Classes\Question 2\Weapon.cpp(20,20): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Question 2.vcxproj -> C:\Users\LCV2442616\OneDrive - College LaSalle\Introduction to C++\Practice exercises - Structs & Classes\x64\Debug\Question 2.exe

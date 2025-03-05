@@ -1,0 +1,1 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(6781,3): error MSB4024: The imported project file "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Microsoft.Common.targets\ImportAfter\Microsoft.DesktopBridge.ImportAfter.targets" could not be loaded. Root element is missing.

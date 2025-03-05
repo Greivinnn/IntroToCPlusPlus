@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\GuessNumber_Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{002DBF48-E040-40F6-9577-E233CDE7FD5D}|GuessNumber_Lab\\GuessNumber_Lab.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\GuessNumber_Lab\\GuessNumber_Lab\\NumberGuesser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{002DBF48-E040-40F6-9577-E233CDE7FD5D}|GuessNumber_Lab\\GuessNumber_Lab.vcxproj|solutionrelative:GuessNumber_Lab\\NumberGuesser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002DBF48-E040-40F6-9577-E233CDE7FD5D}|GuessNumber_Lab\\GuessNumber_Lab.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\GuessNumber_Lab\\GuessNumber_Lab\\GameException.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{002DBF48-E040-40F6-9577-E233CDE7FD5D}|GuessNumber_Lab\\GuessNumber_Lab.vcxproj|solutionrelative:GuessNumber_Lab\\GameException.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002DBF48-E040-40F6-9577-E233CDE7FD5D}|GuessNumber_Lab\\GuessNumber_Lab.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\GuessNumber_Lab\\GuessNumber_Lab\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{002DBF48-E040-40F6-9577-E233CDE7FD5D}|GuessNumber_Lab\\GuessNumber_Lab.vcxproj|solutionrelative:GuessNumber_Lab\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002DBF48-E040-40F6-9577-E233CDE7FD5D}|GuessNumber_Lab\\GuessNumber_Lab.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\GuessNumber_Lab\\GuessNumber_Lab\\GameException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{002DBF48-E040-40F6-9577-E233CDE7FD5D}|GuessNumber_Lab\\GuessNumber_Lab.vcxproj|solutionrelative:GuessNumber_Lab\\GameException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\GuessNumber_Lab\\GuessNumber_Lab\\main.cpp",
+              "RelativeDocumentMoniker": "GuessNumber_Lab\\main.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\GuessNumber_Lab\\GuessNumber_Lab\\main.cpp",
+              "RelativeToolTip": "GuessNumber_Lab\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T23:38:34.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumberGuesser.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\GuessNumber_Lab\\GuessNumber_Lab\\NumberGuesser.cpp",
+              "RelativeDocumentMoniker": "GuessNumber_Lab\\NumberGuesser.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\GuessNumber_Lab\\GuessNumber_Lab\\NumberGuesser.cpp",
+              "RelativeToolTip": "GuessNumber_Lab\\NumberGuesser.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T23:22:37.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameException.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\GuessNumber_Lab\\GuessNumber_Lab\\GameException.cpp",
+              "RelativeDocumentMoniker": "GuessNumber_Lab\\GameException.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\GuessNumber_Lab\\GuessNumber_Lab\\GameException.cpp",
+              "RelativeToolTip": "GuessNumber_Lab\\GameException.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T23:19:46.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameException.h",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\GuessNumber_Lab\\GuessNumber_Lab\\GameException.h",
+              "RelativeDocumentMoniker": "GuessNumber_Lab\\GameException.h",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\GuessNumber_Lab\\GuessNumber_Lab\\GameException.h",
+              "RelativeToolTip": "GuessNumber_Lab\\GameException.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-15T23:19:48.003Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 431,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

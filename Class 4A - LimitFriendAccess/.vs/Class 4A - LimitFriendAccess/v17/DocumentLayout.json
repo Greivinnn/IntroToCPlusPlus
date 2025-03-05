@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|solutionrelative:Class 4A - LimitFriendAccess\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|solutionrelative:Class 4A - LimitFriendAccess\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|solutionrelative:Class 4A - LimitFriendAccess\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|solutionrelative:Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|solutionrelative:Class 4A - LimitFriendAccess\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|solutionrelative:Class 4A - LimitFriendAccess\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Health.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|solutionrelative:Class 4A - LimitFriendAccess\\Health.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Health.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37B846E3-E0B9-4281-8CA6-7648907B9854}|Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.vcxproj|solutionrelative:Class 4A - LimitFriendAccess\\Health.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Health.h",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Health.h",
+              "RelativeDocumentMoniker": "Class 4A - LimitFriendAccess\\Health.h",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Health.h",
+              "RelativeToolTip": "Class 4A - LimitFriendAccess\\Health.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-30T03:27:25.774Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\main.cpp",
+              "RelativeDocumentMoniker": "Class 4A - LimitFriendAccess\\main.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\main.cpp",
+              "RelativeToolTip": "Class 4A - LimitFriendAccess\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T03:36:37.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weapon.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Weapon.cpp",
+              "RelativeDocumentMoniker": "Class 4A - LimitFriendAccess\\Weapon.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Weapon.cpp",
+              "RelativeToolTip": "Class 4A - LimitFriendAccess\\Weapon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T03:35:34.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weapon.h",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Weapon.h",
+              "RelativeDocumentMoniker": "Class 4A - LimitFriendAccess\\Weapon.h",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Weapon.h",
+              "RelativeToolTip": "Class 4A - LimitFriendAccess\\Weapon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-30T03:35:03.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Health.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Health.cpp",
+              "RelativeDocumentMoniker": "Class 4A - LimitFriendAccess\\Health.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Health.cpp",
+              "RelativeToolTip": "Class 4A - LimitFriendAccess\\Health.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T03:30:22.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Player.cpp",
+              "RelativeDocumentMoniker": "Class 4A - LimitFriendAccess\\Player.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Player.cpp",
+              "RelativeToolTip": "Class 4A - LimitFriendAccess\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T03:30:17.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Player.h",
+              "RelativeDocumentMoniker": "Class 4A - LimitFriendAccess\\Player.h",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Player.h",
+              "RelativeToolTip": "Class 4A - LimitFriendAccess\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-30T03:26:04.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class 4A - LimitFriendAccess.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.cpp",
+              "RelativeDocumentMoniker": "Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.cpp",
+              "RelativeToolTip": "Class 4A - LimitFriendAccess\\Class 4A - LimitFriendAccess.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T03:25:50.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

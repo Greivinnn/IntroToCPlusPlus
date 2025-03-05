@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1A - C\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2726B08B-5EFE-4960-BF06-0E8917C0D74A}|More practice\\More practice.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1A - C\u002B\u002B\\More practice\\More practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2726B08B-5EFE-4960-BF06-0E8917C0D74A}|More practice\\More practice.vcxproj|solutionrelative:More practice\\More practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECD99CA-2DE0-4F8B-B702-8358AB03388A}|Practice and Notes\\Practice and Notes.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1A - C\u002B\u002B\\Practice and Notes\\Practice and Notes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ECD99CA-2DE0-4F8B-B702-8358AB03388A}|Practice and Notes\\Practice and Notes.vcxproj|solutionrelative:Practice and Notes\\Practice and Notes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E554D40A-8B9C-4E03-ADDE-509C11D72851}|Week 1A - C\u002B\u002B\\Week 1A - C\u002B\u002B.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1A - C\u002B\u002B\\Week 1A - C\u002B\u002B\\Week 1A - C\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E554D40A-8B9C-4E03-ADDE-509C11D72851}|Week 1A - C\u002B\u002B\\Week 1A - C\u002B\u002B.vcxproj|solutionrelative:Week 1A - C\u002B\u002B\\Week 1A - C\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "More practice.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1A - C\u002B\u002B\\More practice\\More practice.cpp",
+              "RelativeDocumentMoniker": "More practice\\More practice.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1A - C\u002B\u002B\\More practice\\More practice.cpp",
+              "RelativeToolTip": "More practice\\More practice.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T05:30:10.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practice and Notes.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1A - C\u002B\u002B\\Practice and Notes\\Practice and Notes.cpp",
+              "RelativeDocumentMoniker": "Practice and Notes\\Practice and Notes.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1A - C\u002B\u002B\\Practice and Notes\\Practice and Notes.cpp",
+              "RelativeToolTip": "Practice and Notes\\Practice and Notes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T02:45:38.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Week 1A - C\u002B\u002B.cpp",
+              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1A - C\u002B\u002B\\Week 1A - C\u002B\u002B\\Week 1A - C\u002B\u002B.cpp",
+              "RelativeDocumentMoniker": "Week 1A - C\u002B\u002B\\Week 1A - C\u002B\u002B.cpp",
+              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 1A - C\u002B\u002B\\Week 1A - C\u002B\u002B\\Week 1A - C\u002B\u002B.cpp",
+              "RelativeToolTip": "Week 1A - C\u002B\u002B\\Week 1A - C\u002B\u002B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T02:17:15.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

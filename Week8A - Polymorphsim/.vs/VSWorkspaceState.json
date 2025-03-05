@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Code",
+    "\\Code\\CompileTimePolymorphism",
+    "\\Code\\ConstructorAndDestructorInAction",
+    "\\Code\\ExtendingRectangleWithPerimeter",
+    "\\Code\\InheritanceAndIsARelationship",
+    "\\Code\\RuntimePolymorphism",
+    "\\Code\\RuntimePolymorphismOnHeap",
+    "\\Code\\ShowingOnlyRelevantDetails",
+    "\\Code\\x64"
+  ],
+  "SelectedNode": "\\Code\\InheritanceAndIsARelationship\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,6 @@
+﻿  GameException.cpp
+  main.cpp
+  NumberGuesser.cpp
+C:\Users\greiv\OneDrive - College LaSalle\Introduction to C++\GuessNumber_Lab\GuessNumber_Lab\NumberGuesser.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  GuessNumber_Lab.vcxproj -> C:\Users\greiv\OneDrive - College LaSalle\Introduction to C++\GuessNumber_Lab\x64\Debug\GuessNumber_Lab.exe
