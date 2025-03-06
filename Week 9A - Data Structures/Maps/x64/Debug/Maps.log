@@ -1,0 +1,3 @@
+﻿  Maps.cpp
+C:\Introduction To C++\Week 9A - Data Structures\Maps\Maps.cpp(15,12): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  Maps.vcxproj -> C:\Introduction To C++\Week 9A - Data Structures\x64\Debug\Maps.exe

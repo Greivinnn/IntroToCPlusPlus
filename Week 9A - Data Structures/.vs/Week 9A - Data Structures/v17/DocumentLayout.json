@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F704036-6177-46FF-B45E-A01D06BC76DE}|Sets\\Sets.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Sets\\Sets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F704036-6177-46FF-B45E-A01D06BC76DE}|Sets\\Sets.vcxproj|solutionrelative:Sets\\Sets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BA0B03-1BB3-4A60-8AB9-D11582241715}|Maps\\Maps.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Maps\\Maps.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07BA0B03-1BB3-4A60-8AB9-D11582241715}|Maps\\Maps.vcxproj|solutionrelative:Maps\\Maps.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8533FF0-B251-417A-B9F0-F756DADD9B56}|List\\List.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\List\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8533FF0-B251-417A-B9F0-F756DADD9B56}|List\\List.vcxproj|solutionrelative:List\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E6A0F5-4245-42DB-B222-68A311C5A62E}|Week 9A - Data Structures\\Week 9A - Data Structures.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Week 9A - Data Structures\\Vectors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6E6A0F5-4245-42DB-B222-68A311C5A62E}|Week 9A - Data Structures\\Week 9A - Data Structures.vcxproj|solutionrelative:Week 9A - Data Structures\\Vectors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EB429E-4E11-44C9-93C2-7452176765B6}|Stack\\Stack.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5EB429E-4E11-44C9-93C2-7452176765B6}|Stack\\Stack.vcxproj|solutionrelative:Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A9D289-378D-4F85-9422-9B2AC00FAEB9}|Queue\\Queue.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Queue\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4A9D289-378D-4F85-9422-9B2AC00FAEB9}|Queue\\Queue.vcxproj|solutionrelative:Queue\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ED3BC4-41C4-484C-BD95-7BA8D787883E}|Dequeue\\Dequeue.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Dequeue\\Dequeue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8ED3BC4-41C4-484C-BD95-7BA8D787883E}|Dequeue\\Dequeue.vcxproj|solutionrelative:Dequeue\\Dequeue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sets.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Sets\\Sets.cpp",
+              "RelativeDocumentMoniker": "Sets\\Sets.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Sets\\Sets.cpp",
+              "RelativeToolTip": "Sets\\Sets.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T03:10:19.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maps.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Maps\\Maps.cpp",
+              "RelativeDocumentMoniker": "Maps\\Maps.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Maps\\Maps.cpp",
+              "RelativeToolTip": "Maps\\Maps.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T03:18:58.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dequeue.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Dequeue\\Dequeue.cpp",
+              "RelativeDocumentMoniker": "Dequeue\\Dequeue.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Dequeue\\Dequeue.cpp",
+              "RelativeToolTip": "Dequeue\\Dequeue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T03:07:03.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Queue.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Queue\\Queue.cpp",
+              "RelativeDocumentMoniker": "Queue\\Queue.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Queue\\Queue.cpp",
+              "RelativeToolTip": "Queue\\Queue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T03:03:19.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stack.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Stack\\Stack.cpp",
+              "RelativeDocumentMoniker": "Stack\\Stack.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Stack\\Stack.cpp",
+              "RelativeToolTip": "Stack\\Stack.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T02:57:41.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\List\\List.cpp",
+              "RelativeDocumentMoniker": "List\\List.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\List\\List.cpp",
+              "RelativeToolTip": "List\\List.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T02:49:47.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vectors.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Week 9A - Data Structures\\Vectors.cpp",
+              "RelativeDocumentMoniker": "Week 9A - Data Structures\\Vectors.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Week 9A - Data Structures\\Vectors.cpp",
+              "RelativeToolTip": "Week 9A - Data Structures\\Vectors.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T02:33:59.406Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 431,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

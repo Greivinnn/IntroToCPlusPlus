@@ -1,0 +1,11 @@
+Topic: Polymorphism
+1. Emcapsulation in C++, means making a class file to make an object oriented code. using public and private
+2. Public and private are use to set the parameters of the functions inside them. Public: it can be access from anywhere, Private: cannot be access anywhere
+3. Inheritance: is when you derive a class from another one, example: class Porche : class Car
+4. Polymorphsim: the ability of an object to take on multiple forms
+5. Compiler polymorphsim is when you have same named functions inside a class but it has different functionallyty
+6. Runtime polymorphsim: 
+
+Topic: Data Structures
+1. List: Stores elements in a double linked list so whenever you want to delete the middle stuff is possible. However is bad on memory
+2. Set: Makes the least in ascending order automatically, as well as alphabetically 
