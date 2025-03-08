@@ -2,6 +2,35 @@
 #include <map>
 #include <string>
 
+// auto in C++ is a type specifier that allows the compiler to automatically deduce the type of a variable
+// at compile time based on the value it is initialized with.
+
+void FindHighScore(std::map<std::string, int>& people)
+{
+    system("cls");
+    
+    if (people.empty()) // make sure that people is not empty
+    {
+        std::cout << "No players available.\n";
+    }
+    else
+    {
+        auto highest = people.begin();  // set the highest to be the first value of people
+        for (auto it = people.begin(); it != people.end(); ++it)    // iterator that takes it through all the elements of people
+        {
+            if (it->second > highest->second)   // everytime we check if the next value is higher than the actual value we:
+            {
+                highest = it;   // switch the orginal value with the highest one
+            }
+        }
+
+        std::cout << "Player with the highest score:\n\n";
+        std::cout << "Name: " << highest->first << ", Score: " << highest->second << "\n";
+    }
+
+    system("pause"); 
+}
+
 void DisplayInfo(std::map<std::string, int>& people)
 {
     system("cls");
@@ -84,7 +113,8 @@ void StartMenu(std::map<std::string, int>& people)
         std::cout << "1. Add new player\n";
         std::cout << "2. Update existing player info\n";
         std::cout << "3. Display all players\n";
-        std::cout << "4. Exit\n\n";
+        std::cout << "4. Display player HighScore\n";
+        std::cout << "5. Exit\n\n";
         std::cout << "choice: ";
         std::cin >> choice;
 
@@ -101,6 +131,10 @@ void StartMenu(std::map<std::string, int>& people)
             DisplayInfo(people);
         }
         else if (choice == 4)
+        {
+            FindHighScore(people);
+        }
+        else if (choice == 5)
         {
             break;
         }

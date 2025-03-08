@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4A9D289-378D-4F85-9422-9B2AC00FAEB9}|Queue\\Queue.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Queue\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4A9D289-378D-4F85-9422-9B2AC00FAEB9}|Queue\\Queue.vcxproj|solutionrelative:Queue\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07BA0B03-1BB3-4A60-8AB9-D11582241715}|Maps\\Maps.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Maps\\Maps.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07BA0B03-1BB3-4A60-8AB9-D11582241715}|Maps\\Maps.vcxproj|solutionrelative:Maps\\Maps.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{A5EB429E-4E11-44C9-93C2-7452176765B6}|Stack\\Stack.vcxproj|solutionrelative:Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A9D289-378D-4F85-9422-9B2AC00FAEB9}|Queue\\Queue.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Queue\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B4A9D289-378D-4F85-9422-9B2AC00FAEB9}|Queue\\Queue.vcxproj|solutionrelative:Queue\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D8ED3BC4-41C4-484C-BD95-7BA8D787883E}|Dequeue\\Dequeue.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Dequeue\\Dequeue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D8ED3BC4-41C4-484C-BD95-7BA8D787883E}|Dequeue\\Dequeue.vcxproj|solutionrelative:Dequeue\\Dequeue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,25 +51,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Sets.cpp",
-              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Sets\\Sets.cpp",
-              "RelativeDocumentMoniker": "Sets\\Sets.cpp",
-              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Sets\\Sets.cpp",
-              "RelativeToolTip": "Sets\\Sets.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBQAAAB9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-06T03:10:19.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Maps.cpp",
               "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Maps\\Maps.cpp",
               "RelativeDocumentMoniker": "Maps\\Maps.cpp",
               "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Maps\\Maps.cpp",
               "RelativeToolTip": "Maps\\Maps.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-06T03:18:58.399Z",
               "EditorCaption": ""
@@ -88,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Queue.cpp",
               "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Queue\\Queue.cpp",
               "RelativeDocumentMoniker": "Queue\\Queue.cpp",
@@ -96,11 +83,24 @@
               "RelativeToolTip": "Queue\\Queue.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-06T03:03:19.359Z"
+              "WhenOpened": "2025-03-06T03:03:19.359Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Sets.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Sets\\Sets.cpp",
+              "RelativeDocumentMoniker": "Sets\\Sets.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Sets\\Sets.cpp",
+              "RelativeToolTip": "Sets\\Sets.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBQAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T03:10:19.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Stack.cpp",
               "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Stack\\Stack.cpp",
               "RelativeDocumentMoniker": "Stack\\Stack.cpp",
@@ -112,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "List.cpp",
               "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\List\\List.cpp",
               "RelativeDocumentMoniker": "List\\List.cpp",
@@ -124,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Vectors.cpp",
               "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Week 9A - Data Structures\\Vectors.cpp",
               "RelativeDocumentMoniker": "Week 9A - Data Structures\\Vectors.cpp",

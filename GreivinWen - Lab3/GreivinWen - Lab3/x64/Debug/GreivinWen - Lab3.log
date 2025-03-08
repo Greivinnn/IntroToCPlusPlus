@@ -1,3 +1,4 @@
-﻿  GreivinWen - Lab3.cpp
-C:\Introduction To C++\GreivinWen - Lab3\GreivinWen - Lab3\GreivinWen - Lab3.cpp(7,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  GreivinWen - Lab3.vcxproj -> C:\Introduction To C++\GreivinWen - Lab3\x64\Debug\GreivinWen - Lab3.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GreivinWen - Lab3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Task 1.cpp
+C:\Introduction To C++\GreivinWen - Lab3\GreivinWen - Lab3\Task 1.cpp(7,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  GreivinWen - Lab3.vcxproj -> C:\Introduction To C++\GreivinWen - Lab3\x64\Debug\Task 1.exe
