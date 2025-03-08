@@ -12,6 +12,7 @@ void PrintStack(std::stack<std::string> stack)  // this is how you print a stack
         stack.pop();    // erase the current stack.top so the next one is the next element 
     }
     std::cout << "\n";
+    system("pause");
 }
 
 int main()
@@ -20,6 +21,7 @@ int main()
 
     while (1)
     {
+        system("cls");
         std::cout << "Text editor (done to exit)\n\n";
 
         std::string userInput;

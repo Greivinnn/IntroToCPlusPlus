@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Introduction To C\u002B\u002B\\GreivinWen - Lab3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{52319C27-3E10-4ACB-A37B-654F08756CA4}|Task 4\\Task 4.vcxproj|C:\\Introduction To C\u002B\u002B\\GreivinWen - Lab3\\Task 4\\Task 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52319C27-3E10-4ACB-A37B-654F08756CA4}|Task 4\\Task 4.vcxproj|solutionrelative:Task 4\\Task 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3500496-9A9C-4FB7-8157-C98C51301660}|Task 3\\Task 3.vcxproj|C:\\Introduction To C\u002B\u002B\\GreivinWen - Lab3\\Task 3\\Task 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E3500496-9A9C-4FB7-8157-C98C51301660}|Task 3\\Task 3.vcxproj|solutionrelative:Task 3\\Task 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,38 +39,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Task 4.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\GreivinWen - Lab3\\Task 4\\Task 4.cpp",
+              "RelativeDocumentMoniker": "Task 4\\Task 4.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\GreivinWen - Lab3\\Task 4\\Task 4.cpp",
+              "RelativeToolTip": "Task 4\\Task 4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T18:53:49.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Task 3.cpp",
               "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\GreivinWen - Lab3\\Task 3\\Task 3.cpp",
               "RelativeDocumentMoniker": "Task 3\\Task 3.cpp",
               "ToolTip": "C:\\Introduction To C\u002B\u002B\\GreivinWen - Lab3\\Task 3\\Task 3.cpp",
               "RelativeToolTip": "Task 3\\Task 3.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-06T05:14:07.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Task 2.cpp",
               "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\GreivinWen - Lab3\\Task 2\\Task 2.cpp",
               "RelativeDocumentMoniker": "Task 2\\Task 2.cpp",
               "ToolTip": "C:\\Introduction To C\u002B\u002B\\GreivinWen - Lab3\\Task 2\\Task 2.cpp",
               "RelativeToolTip": "Task 2\\Task 2.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-06T04:49:49.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Task 1.cpp",
               "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\GreivinWen - Lab3\\GreivinWen - Lab3\\Task 1.cpp",
               "RelativeDocumentMoniker": "GreivinWen - Lab3\\Task 1.cpp",
               "ToolTip": "C:\\Introduction To C\u002B\u002B\\GreivinWen - Lab3\\GreivinWen - Lab3\\Task 1.cpp",
               "RelativeToolTip": "GreivinWen - Lab3\\Task 1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-06T03:37:41.632Z",
               "EditorCaption": ""
