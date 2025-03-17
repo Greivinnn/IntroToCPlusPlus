@@ -1,0 +1,24 @@
+﻿  Orders.cpp
+  Product.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(247,16): warning C4267: 'initializing': conversion from 'size_t' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(247,16): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(247,16): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(247,16): warning C4267:             _Ty1=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(247,16): warning C4267:         ]
+  (compiling source file 'Product.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(247,16):
+      the template instantiation context (the oldest one first) is
+          C:\Introduction To C++\GreivinWen-FinalProject\GreivinWen-FinalProject\Product.cpp(79,44):
+          see reference to function template instantiation 'std::pair<int,FinalProject::Product>::pair<unsigned __int64,FinalProject::Product&,0>(_Other1 &&,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=FinalProject::Product &
+          ]
+              C:\Introduction To C++\GreivinWen-FinalProject\GreivinWen-FinalProject\Product.cpp(79,20):
+              see the first reference to 'std::pair<int,FinalProject::Product>::pair' in 'FinalProject::Product::AddProduct'
+  
+  Warehouse.cpp
+  main.cpp
+  Generating Code...
+  GreivinWen-FinalProject.vcxproj -> C:\Introduction To C++\GreivinWen-FinalProject\x64\Debug\GreivinWen-FinalProject.exe

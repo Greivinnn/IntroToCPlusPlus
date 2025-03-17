@@ -1,62 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\",
+  "WorkspaceRootPath": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|solutionrelative:GrabExeption\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|solutionrelative:Week 6 - ExeptionHandling\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|solutionrelative:Week 6 - ExeptionHandling\\Inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|solutionrelative:Week 6 - ExeptionHandling\\Example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|solutionrelative:Week 6 - ExeptionHandling\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|solutionrelative:Week 6 - ExeptionHandling\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\AngryCat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|solutionrelative:GrabExeption\\AngryCat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|solutionrelative:GrabExeption\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|solutionrelative:Week 6 - ExeptionHandling\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|solutionrelative:Week 6 - ExeptionHandling\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDA4E29A-B692-47E1-9263-E25B0B41C2E0}|ProcessPossitiveExeption\\ProcessPossitiveExeption.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\ProcessPossitiveExeption\\ProcessPossitiveExeption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EDA4E29A-B692-47E1-9263-E25B0B41C2E0}|ProcessPossitiveExeption\\ProcessPossitiveExeption.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\ProcessPossitiveExeption\\ProcessPossitiveExeption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EDA4E29A-B692-47E1-9263-E25B0B41C2E0}|ProcessPossitiveExeption\\ProcessPossitiveExeption.vcxproj|solutionrelative:ProcessPossitiveExeption\\ProcessPossitiveExeption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\AngryCat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{09160CA1-E70C-4CD7-875B-25467304C65D}|LinkedError\\LinkedError.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\LinkedError\\LinkedError.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09160CA1-E70C-4CD7-875B-25467304C65D}|LinkedError\\LinkedError.vcxproj|solutionrelative:LinkedError\\LinkedError.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|solutionrelative:Week 6 - ExeptionHandling\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|solutionrelative:Week 6 - ExeptionHandling\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|solutionrelative:Week 6 - ExeptionHandling\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|solutionrelative:GrabExeption\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|solutionrelative:GrabExeption\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|solutionrelative:Week 6 - ExeptionHandling\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|solutionrelative:Week 6 - ExeptionHandling\\Inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|solutionrelative:Week 6 - ExeptionHandling\\Example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83738649-A035-4E84-889A-809DEEBE7188}|Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling.vcxproj|solutionrelative:Week 6 - ExeptionHandling\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\AngryCat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|solutionrelative:GrabExeption\\AngryCat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\AngryCat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|solutionrelative:GrabExeption\\AngryCat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{29405E61-2338-4A45-9B6E-AE20DBF967C8}|GrabExeption\\GrabExeption.vcxproj|solutionrelative:GrabExeption\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09160CA1-E70C-4CD7-875B-25467304C65D}|LinkedError\\LinkedError.vcxproj|C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\LinkedError\\LinkedError.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{09160CA1-E70C-4CD7-875B-25467304C65D}|LinkedError\\LinkedError.vcxproj|solutionrelative:LinkedError\\LinkedError.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
@@ -69,32 +69,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AngryCat.cpp",
-              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\AngryCat.cpp",
-              "RelativeDocumentMoniker": "GrabExeption\\AngryCat.cpp",
-              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\AngryCat.cpp",
-              "RelativeToolTip": "GrabExeption\\AngryCat.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProcessPossitiveExeption.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\ProcessPossitiveExeption\\ProcessPossitiveExeption.cpp",
+              "RelativeDocumentMoniker": "ProcessPossitiveExeption\\ProcessPossitiveExeption.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\ProcessPossitiveExeption\\ProcessPossitiveExeption.cpp",
+              "RelativeToolTip": "ProcessPossitiveExeption\\ProcessPossitiveExeption.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-13T04:23:32.88Z",
+              "WhenOpened": "2025-02-13T03:22:30.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\main.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\main.cpp",
               "RelativeDocumentMoniker": "GrabExeption\\main.cpp",
-              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\main.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\main.cpp",
               "RelativeToolTip": "GrabExeption\\main.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -103,24 +107,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Dog.cpp",
-              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\Dog.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\Dog.cpp",
               "RelativeDocumentMoniker": "GrabExeption\\Dog.cpp",
-              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\Dog.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\Dog.cpp",
               "RelativeToolTip": "GrabExeption\\Dog.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-13T04:20:20.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Animal.h",
-              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Animal.h",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Animal.h",
               "RelativeDocumentMoniker": "Week 6 - ExeptionHandling\\Animal.h",
-              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Animal.h",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Animal.h",
               "RelativeToolTip": "Week 6 - ExeptionHandling\\Animal.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -129,60 +133,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "vector",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
-              "ViewState": "AgIAAE0IAAAAAAAAAAAowFwIAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-13T02:53:27.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "LinkedError.cpp",
-              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\LinkedError\\LinkedError.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\LinkedError\\LinkedError.cpp",
               "RelativeDocumentMoniker": "LinkedError\\LinkedError.cpp",
-              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\LinkedError\\LinkedError.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\LinkedError\\LinkedError.cpp",
               "RelativeToolTip": "LinkedError\\LinkedError.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-13T02:52:01.248Z"
+              "WhenOpened": "2025-02-13T02:52:01.248Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Dog.h",
-              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Dog.h",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Dog.h",
               "RelativeDocumentMoniker": "Week 6 - ExeptionHandling\\Dog.h",
-              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Dog.h",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Dog.h",
               "RelativeToolTip": "Week 6 - ExeptionHandling\\Dog.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-13T02:39:17.787Z"
+              "WhenOpened": "2025-02-13T02:39:17.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Dog.cpp",
-              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Dog.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Dog.cpp",
               "RelativeDocumentMoniker": "Week 6 - ExeptionHandling\\Dog.cpp",
-              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Dog.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Dog.cpp",
               "RelativeToolTip": "Week 6 - ExeptionHandling\\Dog.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-13T02:43:20.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T02:43:20.947Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Animal.cpp",
-              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Animal.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Animal.cpp",
               "RelativeDocumentMoniker": "Week 6 - ExeptionHandling\\Animal.cpp",
-              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Animal.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Animal.cpp",
               "RelativeToolTip": "Week 6 - ExeptionHandling\\Animal.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -191,62 +184,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Example.cpp",
-              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Example.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Example.cpp",
               "RelativeDocumentMoniker": "Week 6 - ExeptionHandling\\Example.cpp",
-              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Example.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Example.cpp",
               "RelativeToolTip": "Week 6 - ExeptionHandling\\Example.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-13T02:17:37.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T02:17:37.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Inheritance.cpp",
-              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Inheritance.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Inheritance.cpp",
               "RelativeDocumentMoniker": "Week 6 - ExeptionHandling\\Inheritance.cpp",
-              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Inheritance.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\Inheritance.cpp",
               "RelativeToolTip": "Week 6 - ExeptionHandling\\Inheritance.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-13T02:35:17.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T02:35:17.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "ViewState": "AgIAAE0IAAAAAAAAAAAowFwIAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-13T02:53:27.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AngryCat.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\AngryCat.cpp",
+              "RelativeDocumentMoniker": "GrabExeption\\AngryCat.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\AngryCat.cpp",
+              "RelativeToolTip": "GrabExeption\\AngryCat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T04:23:32.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\main.cpp",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\main.cpp",
               "RelativeDocumentMoniker": "Week 6 - ExeptionHandling\\main.cpp",
-              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\main.cpp",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\Week 6 - ExeptionHandling\\main.cpp",
               "RelativeToolTip": "Week 6 - ExeptionHandling\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-13T02:13:37.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T02:13:37.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProcessPossitiveExeption.cpp",
-              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\ProcessPossitiveExeption\\ProcessPossitiveExeption.cpp",
-              "RelativeDocumentMoniker": "ProcessPossitiveExeption\\ProcessPossitiveExeption.cpp",
-              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\ProcessPossitiveExeption\\ProcessPossitiveExeption.cpp",
-              "RelativeToolTip": "ProcessPossitiveExeption\\ProcessPossitiveExeption.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-13T03:22:30.283Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Dog.h",
-              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\Dog.h",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\Dog.h",
               "RelativeDocumentMoniker": "GrabExeption\\Dog.h",
-              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\Dog.h",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\Dog.h",
               "RelativeToolTip": "GrabExeption\\Dog.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -254,15 +256,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AngryCat.h",
-              "DocumentMoniker": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\AngryCat.h",
+              "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\AngryCat.h",
               "RelativeDocumentMoniker": "GrabExeption\\AngryCat.h",
-              "ToolTip": "C:\\Users\\greiv\\OneDrive - College LaSalle\\Introduction to C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\AngryCat.h",
+              "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 6 - ExeptionHandling\\GrabExeption\\AngryCat.h",
               "RelativeToolTip": "GrabExeption\\AngryCat.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-02-13T04:22:04.933Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 431,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }

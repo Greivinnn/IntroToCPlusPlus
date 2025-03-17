@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{B4A9D289-378D-4F85-9422-9B2AC00FAEB9}|Queue\\Queue.vcxproj|solutionrelative:Queue\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E6E6A0F5-4245-42DB-B222-68A311C5A62E}|Week 9A - Data Structures\\Week 9A - Data Structures.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Week 9A - Data Structures\\Vectors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6E6A0F5-4245-42DB-B222-68A311C5A62E}|Week 9A - Data Structures\\Week 9A - Data Structures.vcxproj|solutionrelative:Week 9A - Data Structures\\Vectors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07BA0B03-1BB3-4A60-8AB9-D11582241715}|Maps\\Maps.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Maps\\Maps.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07BA0B03-1BB3-4A60-8AB9-D11582241715}|Maps\\Maps.vcxproj|solutionrelative:Maps\\Maps.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E8533FF0-B251-417A-B9F0-F756DADD9B56}|List\\List.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\List\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E8533FF0-B251-417A-B9F0-F756DADD9B56}|List\\List.vcxproj|solutionrelative:List\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6E6A0F5-4245-42DB-B222-68A311C5A62E}|Week 9A - Data Structures\\Week 9A - Data Structures.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Week 9A - Data Structures\\Vectors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E6E6A0F5-4245-42DB-B222-68A311C5A62E}|Week 9A - Data Structures\\Week 9A - Data Structures.vcxproj|solutionrelative:Week 9A - Data Structures\\Vectors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5EB429E-4E11-44C9-93C2-7452176765B6}|Stack\\Stack.vcxproj|C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -50,16 +50,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Maps.cpp",
               "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Maps\\Maps.cpp",
               "RelativeDocumentMoniker": "Maps\\Maps.cpp",
               "ToolTip": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Maps\\Maps.cpp",
               "RelativeToolTip": "Maps\\Maps.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-06T03:18:58.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T03:18:58.399Z"
             },
             {
               "$type": "Document",
@@ -88,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Sets.cpp",
               "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Sets\\Sets.cpp",
               "RelativeDocumentMoniker": "Sets\\Sets.cpp",
@@ -112,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "List.cpp",
               "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\List\\List.cpp",
               "RelativeDocumentMoniker": "List\\List.cpp",
@@ -124,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Vectors.cpp",
               "DocumentMoniker": "C:\\Introduction To C\u002B\u002B\\Week 9A - Data Structures\\Week 9A - Data Structures\\Vectors.cpp",
               "RelativeDocumentMoniker": "Week 9A - Data Structures\\Vectors.cpp",
@@ -132,7 +131,8 @@
               "RelativeToolTip": "Week 9A - Data Structures\\Vectors.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-06T02:33:59.406Z"
+              "WhenOpened": "2025-03-06T02:33:59.406Z",
+              "EditorCaption": ""
             }
           ]
         },
