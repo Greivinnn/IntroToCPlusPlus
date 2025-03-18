@@ -98,7 +98,11 @@ void Orders::ProcessOrders(std::queue<Orders>& orders)
 		orderHistory << "Products in " << order.M_customerName << "'s order:\n";
 
 		product.PrintProducts(order.M_products);
+		std::cout << "Ordered completed sucessfully!\n\n";
+	}
+	else
+	{
+		std::cout << "Failed to open the file.\n\n";
 	}
 	orderHistory.close();
-	std::cout << "Ordered completed sucessfully!\n\n";
 }

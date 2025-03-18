@@ -1,6 +1,7 @@
 #include "Product.h"
 #include <iostream>
 #include <string>
+#include <fstream>
 
 using namespace FinalProject;
 
@@ -79,7 +80,21 @@ void Product::AddProduct(std::map<int, Product> inventory)
 			inventory.insert(std::pair<int, Product>(inventory.size() + 1, product));
 			M_quantity += productQuantity;
 
-			std::cout << "Product Added Successfully!" << "\n\n";
+			std::ofstream warehouseData("warehouse_data.txt");
+			if (warehouseData.is_open())
+			{
+				warehouseData << "Product ID: " << productID << "\n";
+				warehouseData << "Product Name: " << productName << "\n";
+				warehouseData << "Product Quantity: " << productQuantity << "\n";
+				warehouseData << "Product Price: " << productPrice << "\n";
+				warehouseData << "Product Category: " << productCategory << "\n\n";
+				std::cout << "Product Added Successfully!" << "\n\n";
+			}
+			else
+			{
+				std::cout << "Failed to open file boss.\n\n";
+			}
+			warehouseData.close();
 		}
 	}
 	catch (std::invalid_argument e)
