@@ -13,6 +13,7 @@ Warehouse::Warehouse()
 
 void Warehouse::ASCIIArt()
 {
+	system("cls");
 std::cout << R"(
  ____    _    _     _     _____ ____   __        ___    ____  _____ _   _  ___  _   _ ____  _____ 
 | __ )  / \  | |   | |   | ____|  _ \  \ \      / / \  |  _ \| ____| | | |/ _ \| | | / ___|| ____|
@@ -30,22 +31,36 @@ std::map<int, Product> Warehouse::GetProductsMap()
 void Warehouse::RunLogic()
 {
 	ASCIIArt();
-	Product products;
 
-	Product product1("Apple", 10, 1.00, "Fruit");
-	Product product2("Banana", 20, 0.50, "Fruit");
-	Product product3("Orange", 15, 0.75, "Fruit");
-	Product product4("Carrot", 5, 0.25, "Vegetable");
-	Product product5("Broccoli", 7, 0.75, "Vegetable");
-	Product product6("Cucumber", 8, 0.50, "Vegetable");
+	std::string admin = "123456";
+	std::string manager = "987654";
 
-	M_productsMap.insert(std::pair<int, Product>(1, product1));
-	M_productsMap.insert(std::pair<int, Product>(2, product2));
+	M_warehouseUsers.insert(std::pair<std::string, std::string>("123456", "Bobby"));	// admin
+	M_warehouseUsers.insert(std::pair < std::string, std::string>("987654", "JP"));	// manager
 
-	std::cout << "Welcome to the Warehouse Inventory System!" << "\n\n";
+	std::cout << "Welcome, please enter a staff ID\n\n";
+	std::string password;
+	std::cin >> password;
 
-	Orders order;
+	if (M_warehouseUsers.find(password) != M_warehouseUsers.end())
+	{
+		if (password == admin)
+		{
+			ASCIIArt();
+			std::cout << "Welcome back, Admin, let's proceed:\n\n";
+			std::cout << "1. Add new products or existing products\n";
+			std::cout << "2. View total stock value\n";
+		}
+		else if (password == manager)
+		{
 
-	order.AddNewOrder(M_productsMap, M_ordersQueue);
+		}
+	}
+	else
+	{
+		std::cout << "Staff ID not found in the system.\n\n";
+	}
 
+	
+	system("pause");
 }

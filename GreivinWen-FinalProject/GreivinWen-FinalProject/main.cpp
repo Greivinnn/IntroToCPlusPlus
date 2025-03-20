@@ -8,4 +8,6 @@ int main()
 {
 	Warehouse warehouse;
 	warehouse.RunLogic();
+		
+	return 0;
 }

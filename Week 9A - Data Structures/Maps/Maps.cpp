@@ -22,6 +22,6 @@ int main()
 
     for (const std::pair<std::string, int>& pair : people)
     {
-        std::cout << pair.first << "\n";
+        std::cout << pair.second << "\n";
     }
 }

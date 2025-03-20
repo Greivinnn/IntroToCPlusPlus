@@ -31,7 +31,28 @@ void Product::DisplayProduct(std::map<int, Product>& inventory) const
 	}
 }
 
-void Product::AddProduct(std::map<int, Product> inventory)
+void Product::SaveInventoryToFile(const std::map<int, Product>& inventory)	// this is not correct here however it makes my life way easier 
+{
+	std::ofstream warehouseData("warehouse_data.txt");
+	if (warehouseData.is_open())
+	{
+		for (const auto& pair : inventory)
+		{
+			warehouseData << "Product ID: " << pair.first << "\n";
+			warehouseData << "Product Name: " << pair.second.M_name << "\n";
+			warehouseData << "Product Quantity: " << pair.second.M_quantity << "\n";
+			warehouseData << "Product Price: " << pair.second.M_price << "\n";
+			warehouseData << "Product Category: " << pair.second.M_category << "\n\n";
+		}
+		warehouseData.close();
+	}
+	else
+	{
+		std::cout << "Failed to open file boss.\n\n";
+	}
+}
+
+void Product::AddProduct(std::map<int, Product>& inventory)
 {
 	try
 	{
@@ -56,6 +77,8 @@ void Product::AddProduct(std::map<int, Product> inventory)
 			}
 			inventory[productID].M_quantity += productQuantity;
 			std::cout << "Product quantity updated successfully!" << "\n\n";
+
+			SaveInventoryToFile(inventory);
 		}
 		else
 		{
@@ -79,22 +102,9 @@ void Product::AddProduct(std::map<int, Product> inventory)
 			Product product(productName, productQuantity, productPrice, productCategory);
 			inventory.insert(std::pair<int, Product>(inventory.size() + 1, product));
 			M_quantity += productQuantity;
+			std::cout << "Product Added Successfully!" << "\n\n";
 
-			std::ofstream warehouseData("warehouse_data.txt");
-			if (warehouseData.is_open())
-			{
-				warehouseData << "Product ID: " << productID << "\n";
-				warehouseData << "Product Name: " << productName << "\n";
-				warehouseData << "Product Quantity: " << productQuantity << "\n";
-				warehouseData << "Product Price: " << productPrice << "\n";
-				warehouseData << "Product Category: " << productCategory << "\n\n";
-				std::cout << "Product Added Successfully!" << "\n\n";
-			}
-			else
-			{
-				std::cout << "Failed to open file boss.\n\n";
-			}
-			warehouseData.close();
+			SaveInventoryToFile(inventory);
 		}
 	}
 	catch (std::invalid_argument e)

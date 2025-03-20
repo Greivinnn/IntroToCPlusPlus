@@ -18,5 +18,6 @@ namespace FinalProject
 	private:
 		std::map<int, Product> M_productsMap;
 		std::queue<Orders> M_ordersQueue;
+		std::map<std::string, std::string> M_warehouseUsers;
 	};
 }

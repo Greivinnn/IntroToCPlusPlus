@@ -24,58 +24,53 @@ void Orders::PrintOrderQueue(std::queue<Orders> orders) const
 	}
 }
 
-void Orders::AddNewOrder(std::map<int, Product>& inventory, std::queue<Orders>& orders)
-{
-	try
-	{
-		Orders newOrder;
-
-		std::cout << "Enter the order ID: ";
-		std::cin >> newOrder.M_orderID;
-		std::cout << "Enter the customer name: ";
-		std::cin >> newOrder.M_customerName;
-
-		std::string addMore;
-		do
-		{
-			Product product;
-			int productID;
-			product.DisplayProduct(inventory);
-			
-			std::cout << "What product would you like to add to the order? Enter the product ID: ";
-			std::cin >> productID;
-
-			if (inventory.find(productID) == inventory.end())
-			{
-				throw std::invalid_argument("Product ID does not exist!");
-			}
-			else
-			{
-				product = inventory[productID];
-			}
-
-			int productQuantity;
-			std::cout << "Enter the quantity of the product: ";
-			std::cin >> productQuantity;
-
-			if (productQuantity > product.GetProductQuantity())
-			{
-				throw std::invalid_argument("Quantity exceeds the available stock!");
-			}
-
-			inventory[productID].UpgradeProductQuantityMinus(productQuantity);
-			newOrder.M_products.push_back(product);
-			std::cout << "Do you want to add more products? (yes/no): ";
-			std::cin >> addMore;
-		} while (addMore == "yes");
-		orders.push(newOrder);
-	}
-	catch (std::invalid_argument e)
-	{
-		std::cerr << e.what() << "\n";
-	}
-	
-}
+//void Orders::AddNewOrder(std::map<int, Product>& inventory, std::queue<Orders>& orders)
+//{
+//	try
+//	{
+//		Orders newOrder;
+//
+//		std::cout << "Enter the order ID: ";
+//		std::cin >> newOrder.M_orderID;
+//		std::cout << "Enter the customer name: ";
+//		std::cin >> newOrder.M_customerName;
+//
+//		std::string addMore;
+//		do
+//		{
+//			Product product;
+//			int productID;
+//			product.DisplayProduct(inventory);
+//			
+//			std::cout << "What product would you like to add to the order? Enter the product ID: ";
+//			std::cin >> productID;
+//
+//			if (inventory.find(productID) == inventory.end())
+//			{
+//				throw std::invalid_argument("Product ID does not exist!");
+//			}
+//			else
+//			{
+//				product = inventory[productID];
+//			}
+//
+//			int productQuantity;
+//			std::cout << "Enter the quantity of the product: ";
+//			std::cin >> productQuantity;
+//
+//			inventory[productID].UpgradeProductQuantityMinus(productQuantity);
+//			newOrder.M_products.push_back(product);
+//			std::cout << "Do you want to add more products? (yes/no): ";
+//			std::cin >> addMore;
+//		} while (addMore == "yes");
+//		orders.push(newOrder);
+//	}
+//	catch (std::invalid_argument e)
+//	{
+//		std::cerr << e.what() << "\n";
+//	}
+//	
+//}
 
 void Orders::ProcessOrders(std::queue<Orders>& orders)
 {
@@ -105,4 +100,12 @@ void Orders::ProcessOrders(std::queue<Orders>& orders)
 		std::cout << "Failed to open the file.\n\n";
 	}
 	orderHistory.close();
+}
+
+void Orders::RejectOrders(std::queue<Orders>& orders)
+{
+	Orders order = orders.front();
+	orders.pop();
+
+	std::cout << "Order has been rejected sucessfully.\n\n";
 }

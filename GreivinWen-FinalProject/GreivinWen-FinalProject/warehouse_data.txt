@@ -1,0 +1,6 @@
+Product ID: 1
+Product Name: Onion
+Product Quantity: 10
+Product Price: 2
+Product Category: Vegetable
+
