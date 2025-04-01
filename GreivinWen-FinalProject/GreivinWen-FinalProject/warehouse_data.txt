@@ -1,6 +1,24 @@
 Product ID: 1
+Product Name: Apple
+Product Quantity: 50
+Product Price: 1.5
+Product Category: Fruit
+
+Product ID: 2
+Product Name: Pear
+Product Quantity: 60
+Product Price: 1.5
+Product Category: Fruit
+
+Product ID: 3
+Product Name: Banana
+Product Quantity: 40
+Product Price: 1.5
+Product Category: Fruit
+
+Product ID: 4
 Product Name: Onion
-Product Quantity: 10
-Product Price: 2
-Product Category: Vegetable
+Product Quantity: 60
+Product Price: 1.6
+Product Category: Vegetables
 

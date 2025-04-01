@@ -1,0 +1,7 @@
+Order ID: 123
+Customer Name: GReivin
+Products in GReivin's order:
+Product Name: Apple
+Quantity: 25
+Price: 1.5
+Category: Fruit

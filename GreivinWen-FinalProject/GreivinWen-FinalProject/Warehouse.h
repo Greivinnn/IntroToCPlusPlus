@@ -15,6 +15,8 @@ namespace FinalProject
 		void RunLogic();
 		void ASCIIArt();
 		std::map<int, Product> GetProductsMap();
+		std::queue<Orders> GetOrderQueue();
+		void ProcessOrder();
 	private:
 		std::map<int, Product> M_productsMap;
 		std::queue<Orders> M_ordersQueue;

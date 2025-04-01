@@ -14,9 +14,31 @@ Product::Product(std::string name, int quantity, double price, std::string categ
 {
 }
 
+void Product::ASCIIArt()
+{
+	system("cls");
+	std::cout << R"(
+ ____    _    _     _     _____ ____   __        ___    ____  _____ _   _  ___  _   _ ____  _____ 
+| __ )  / \  | |   | |   | ____|  _ \  \ \      / / \  |  _ \| ____| | | |/ _ \| | | / ___|| ____|
+|  _ \ / _ \ | |   | |   |  _| | |_) |  \ \ /\ / / _ \ | |_) |  _| | |_| | | | | | | \___ \|  _|  
+| |_) / ___ \| |___| |___| |___|  _ <    \ V  V / ___ \|  _ <| |___|  _  | |_| | |_| |___) | |___ 
+|____/_/   \_\_____|_____|_____|_| \_\    \_/\_/_/   \_\_| \_\_____|_| |_|\___/ \___/|____/|_____|
+				)" << "\n\n";
+}
+
 Product Product::GetProduct()
 {
 	return Product(M_name, M_quantity, M_price, M_category);
+}
+
+void Product::SetOrderedQuantity(int quantity)
+{
+	M_orderedQuantity = quantity;
+}
+
+int Product::GetOrderedQuantity() const
+{
+	return M_orderedQuantity;
 }
 
 void Product::DisplayProduct(std::map<int, Product>& inventory) const
@@ -54,6 +76,7 @@ void Product::SaveInventoryToFile(const std::map<int, Product>& inventory)	// th
 
 void Product::AddProduct(std::map<int, Product>& inventory)
 {
+	ASCIIArt();
 	try
 	{
 		std::string productName;
@@ -111,10 +134,12 @@ void Product::AddProduct(std::map<int, Product>& inventory)
 	{
 		std::cerr << e.what() << "\n";
 	}
+	system("pause");
 }
 
 void Product::FindProduct(std::map<int, Product> inventory)
 {
+	ASCIIArt();
 	int productID;
 	std::cout << "Enter Product ID to find: ";
 	std::cin >> productID;
@@ -131,9 +156,10 @@ void Product::FindProduct(std::map<int, Product> inventory)
 	{
 		std::cout << "Product Not Found!" << "\n\n";
 	}
+	system("pause");
 }
 
-int Product::GetProductQuantity()
+int Product::GetProductQuantity() const
 {
 	return M_quantity;
 }
@@ -154,3 +180,99 @@ void Product::PrintProducts(std::vector<Product> products) const
 	}
 }
 
+double Product::CalculateStockValue(const std::map<int, Product> inventory)
+{
+	double totalValue = 0.0;
+
+	for (const std::pair<int, Product> pair : inventory)
+	{
+		totalValue += pair.second.M_price * pair.second.M_quantity;
+	}
+
+	return totalValue;
+}
+
+void Product::DisplayTopProducts(const std::map<int, Product> inventory, int count)
+{
+	ASCIIArt();
+	if (inventory.empty())
+	{
+		std::cout << "No products in inventory.\n";
+		return;
+	}
+
+	int* topProductIDs = new int[count];
+	int* topQuantities = new int[count];
+
+	for (int i = 0; i < count; i++)
+	{
+		topProductIDs[i] = -1;
+		topQuantities[i] = -1;
+	}
+
+	for (const auto& pair : inventory)
+	{
+		int productID = pair.first;
+		int quantity = pair.second.M_quantity;
+
+		for (int i = 0; i < count; i++)
+		{
+			if (quantity > topQuantities[i])
+			{
+				for (int j = count - 1; j > i; j--)
+				{
+					topProductIDs[j] = topProductIDs[j - 1];
+					topQuantities[j] = topQuantities[j - 1];
+				}
+
+				topProductIDs[i] = productID;
+				topQuantities[i] = quantity;
+				break;
+			}
+		}
+	}
+
+	int displayCount = count;
+	for (int i = count - 1; i >= 0; i--)
+	{
+		if (topProductIDs[i] == -1)
+		{
+			displayCount--;
+		}
+	}
+
+	std::cout << "Top " << displayCount << " Most Stocked Products:\n\n";
+
+	for (int i = 0; i < displayCount; i++)
+	{
+		int productID = topProductIDs[i];
+		auto it = inventory.find(productID);
+
+		if (it != inventory.end())
+		{
+			std::cout << (i + 1) << ". Product ID: " << productID << "\n";
+			std::cout << "   Product Name: " << it->second.M_name << "\n";
+			std::cout << "   Quantity: " << it->second.M_quantity << "\n";
+			std::cout << "   Value: $" << (it->second.M_price * it->second.M_quantity) << "\n\n";
+		}
+	}
+
+	delete[] topProductIDs;
+	delete[] topQuantities;
+	system("pause");
+}
+
+std::string Product::GetProductName() const
+{
+	return M_name;
+}
+
+double Product::GetPrice() const
+{
+	return M_price;
+}
+
+std::string Product::GetCatergory() const
+{
+	return M_category;
+}
